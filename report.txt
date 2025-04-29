@@ -1,0 +1,6 @@
+Processed: ID001 John Smith           £1234.56
+Processed: ID002 Jane Doe             £2345.67
+Processed: ID003 Bob Lee              £3456.78
+Processed: ID004 Alice Brown          £789.00
+Processed: ID005 Charlie Green        £1500.50
+TOTAL BENEFITS PAID: £   9326.51
